@@ -9,6 +9,7 @@
   },
   "author": "Cameron Diver <cameron@resin.io>",
   "license": "Apache-2.0",
+  "engines" : { "node" : ">=8.16.0" },
   "bugs": {
     "url": "https://github.com/resin-io-playground/node-sense-hat/issues"
   },
